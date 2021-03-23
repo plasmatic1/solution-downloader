@@ -1,0 +1,10 @@
+yes.  this is really just a planning file
+
+some random notes:
+
+- top level nodes in config should be for different judges
+- handle specs should be the following (or something similar)
+    - judge:
+        handles:
+            - { handle: "foo", apiKey: "bar" }
+- other options should be put there
